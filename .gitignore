@@ -1,2 +1,4 @@
+# Ignore pycaches files
 *__pycache__
+# Don't push the model to github
 models/model.pickle

@@ -1,0 +1,2 @@
+# Don't push the model to Docker
+models/model.pickle
